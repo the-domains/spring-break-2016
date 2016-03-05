@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  brandStrength: 0.0589549
+  lightness: 1
+  rhythmicContrast: 1
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+typography_spectrum: 0.1344086
+name: Spring Break 2016
